@@ -1,0 +1,10 @@
+C:\01Code_GIT_Test\testapp1\testapp1\bin\Debug\testapp1.exe.config
+C:\01Code_GIT_Test\testapp1\testapp1\bin\Debug\testapp1.exe
+C:\01Code_GIT_Test\testapp1\testapp1\bin\Debug\testapp1.pdb
+C:\01Code_GIT_Test\testapp1\testapp1\obj\Debug\testapp1.csprojResolveAssemblyReference.cache
+C:\01Code_GIT_Test\testapp1\testapp1\obj\Debug\testapp1.Form1.resources
+C:\01Code_GIT_Test\testapp1\testapp1\obj\Debug\testapp1.Properties.Resources.resources
+C:\01Code_GIT_Test\testapp1\testapp1\obj\Debug\testapp1.csproj.GenerateResource.cache
+C:\01Code_GIT_Test\testapp1\testapp1\obj\Debug\testapp1.csproj.CoreCompileInputs.cache
+C:\01Code_GIT_Test\testapp1\testapp1\obj\Debug\testapp1.exe
+C:\01Code_GIT_Test\testapp1\testapp1\obj\Debug\testapp1.pdb
